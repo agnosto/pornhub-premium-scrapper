@@ -31,4 +31,8 @@ To add models/pornstars to scrape
 To start the script  
 `
  $ ./scrape.sh start 
+`  
+To view help  
+`
+ $ ./scrape.sh -h
 `
