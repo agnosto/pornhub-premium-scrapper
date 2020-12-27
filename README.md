@@ -17,7 +17,7 @@ this is basically a much simpler version of [this](https://github.com/mariosemes
 ## Installation
 
 ```
- $ git clone git@github.com:agnosto/pornhub-premium-scrapper.git
+ $ git clone https://github.com/agnosto/pornhub-premium-scrapper.git
  $ cd pornhub-premium-scrapper
  $ chmod +x ./scrape.sh
 ```
